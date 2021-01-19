@@ -1,5 +1,5 @@
-#INFORMATION TECHNOLOGY SYSTEMS#
-YEAR 1, LEVEL 3
+# INFORMATION TECHNOLOGY SYSTEMS
+YEAR 1 LEVEL 3
 
 ### Unit in brief 
 i will study the role of computer systems and implications of thier use in personal and proffessional situations.
